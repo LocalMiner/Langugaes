@@ -1,0 +1,34 @@
+{
+    "main":{
+        "sub":"Host Minecraft vor Ort!",
+        "install":"Server installieren",
+        "run":"Server ausführen",
+        "console":"Konsole",
+        "servers":"Server",
+        "plugins":"Plugins_ [Beta]"
+    },
+    "install":{
+        "sub":"LocalMiner bietet Minecraft Version 1.8 und höher.",
+        "servername":"Server Name",
+        "serverversion":"- Server Version -",
+        "ram":"- Max Ram -",
+        "player":"- Max Player -",
+        "type":"- Server Type -",
+        "region":"- Server Region -",
+        "install":"Installieren"
+    },
+    "run":{
+        "sub":"Angetrieben von Ngrok!Lokalminer hilft Ihnen, über das Internet geschützt zu bleiben!",
+        "ngrok":"Ngrok Token",
+        "server":"Choose Server .jar",
+        "ram":"- Max Ram -",
+        "region":"- Choose Region -",
+        "ip":"- IP auf Discord anzeigen -",
+        "run":"Server starten"
+    },
+    "Console":{
+        "sub":"Alle Informationen über die Serverstatistiken",
+        "command":"Geben Sie den Befehl ein",
+        "send":"schicken"
+    }
+}
